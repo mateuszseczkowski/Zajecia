@@ -1,0 +1,4 @@
+badfile.txt
+log/*
+!log/ignorethisfile.txt
+
